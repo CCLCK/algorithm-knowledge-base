@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "paper_id": "001_open-data-structures",
+  "table_id": "table-001",
+  "caption": "I This structure can only store w-bit integer data. Table 1.2: Summary of SSet and priority Queue implementations.",
+  "pages": [
+    38
+  ],
+  "image": "../media/table-001-page-038.png",
+  "images": [
+    "../media/table-001-page-038.png"
+  ],
+  "source_bbox": [
+    82.944,
+    185.976,
+    346.896,
+    236.52
+  ],
+  "source_regions": [
+    {
+      "page": 38,
+      "bbox": [
+        82.944,
+        185.976,
+        346.896,
+        236.52
+      ],
+      "raw_bbox": [
+        192,
+        287,
+        803,
+        365
+      ],
+      "coordinate_space": "pdf_points",
+      "image": "../media/table-001-page-038.png",
+      "image_sha256": "aa725644f7fa41522717f0d41ab3b05a8d85ea996ce4bbe4e2469d098e014901",
+      "raw_image": "images/32db9a83816fcc9000617ab05a91fe589d4ec86af60c2ccdba1a034b63e9ce2f.jpg",
+      "raw_html": "table-001-page-038.raw.html",
+      "raw_html_sha256": "4790a0681fea1961750ab55dabf32d44d8a90df66fb54f50c8da22e776251d38"
+    }
+  ],
+  "footnote": "",
+  "raw_html_available": true,
+  "raw_html_files": [
+    "table-001-page-038.raw.html"
+  ],
+  "structured_data_status": "not_extracted",
+  "source_pdf_sha256": "2bdd7e8129fff83daf04cd594fce5236d72b1d8b8c72832fde22ea762a7e014f",
+  "source_checksum": "a710f2ead8aef3c03a854ecdb962bf82dc9b5db84de8c07f3ded497591943470",
+  "confidence": null
+}

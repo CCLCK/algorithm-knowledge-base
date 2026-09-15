@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "paper_id": "001_open-data-structures",
+  "table_id": "table-004",
+  "caption": "Table 4",
+  "pages": [
+    38
+  ],
+  "image": "../media/table-004-page-038.png",
+  "images": [
+    "../media/table-004-page-038.png"
+  ],
+  "source_bbox": [
+    82.944,
+    53.784,
+    346.896,
+    166.536
+  ],
+  "source_regions": [
+    {
+      "page": 38,
+      "bbox": [
+        82.944,
+        53.784,
+        346.896,
+        166.536
+      ],
+      "raw_bbox": [
+        192,
+        83,
+        803,
+        257
+      ],
+      "coordinate_space": "pdf_points",
+      "image": "../media/table-004-page-038.png",
+      "image_sha256": "bc0087309353ffdc852d15a630bd1ca72dc9c62287b06ff8b954b1c8aceeba1b",
+      "raw_image": "images/1b3403feb6f7d3a2336aa8d314ea9dc7503f3b5982a044cd0a0118c69c1c813e.jpg",
+      "raw_html": "table-004-page-038.raw.html",
+      "raw_html_sha256": "699328b3e3ad3b1b8401bbdb909926c2fd08665682e26b67ab79e9e3126a42aa"
+    }
+  ],
+  "footnote": "",
+  "raw_html_available": true,
+  "raw_html_files": [
+    "table-004-page-038.raw.html"
+  ],
+  "structured_data_status": "not_extracted",
+  "source_pdf_sha256": "2bdd7e8129fff83daf04cd594fce5236d72b1d8b8c72832fde22ea762a7e014f",
+  "source_checksum": "3e175e0f56cb28b6d5468744a0e1692971351ad749d0798c76c2fcb99c5bcd8b",
+  "confidence": null
+}

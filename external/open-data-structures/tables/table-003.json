@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "paper_id": "001_open-data-structures",
+  "table_id": "table-003",
+  "caption": "Table 3",
+  "pages": [
+    36
+  ],
+  "image": "../media/table-003-page-036.png",
+  "images": [
+    "../media/table-003-page-036.png"
+  ],
+  "source_bbox": [
+    59.616,
+    341.496,
+    371.952,
+    391.392
+  ],
+  "source_regions": [
+    {
+      "page": 36,
+      "bbox": [
+        59.616,
+        341.496,
+        371.952,
+        391.392
+      ],
+      "raw_bbox": [
+        138,
+        527,
+        861,
+        604
+      ],
+      "coordinate_space": "pdf_points",
+      "image": "../media/table-003-page-036.png",
+      "image_sha256": "7b08f28de1a1ec333e684c2ba0c1a4ae8a5c21d317ceb472aecf0b6e1cc2782c",
+      "raw_image": "images/b2521008cc81d1d3058d81943305b5f99cc6f02b7d45417c43b991c40dc13f74.jpg",
+      "raw_html": "table-003-page-036.raw.html",
+      "raw_html_sha256": "b3cdc2d09d5f5172d0fd1386cb79e7a9a6439a77c8c460c81009870366fbd23e"
+    }
+  ],
+  "footnote": "A Denotes an amortized running time. E Denotes an expected running time.",
+  "raw_html_available": true,
+  "raw_html_files": [
+    "table-003-page-036.raw.html"
+  ],
+  "structured_data_status": "not_extracted",
+  "source_pdf_sha256": "2bdd7e8129fff83daf04cd594fce5236d72b1d8b8c72832fde22ea762a7e014f",
+  "source_checksum": "f662db2bc1e5a4a1554ed6c550e4a1ca02016882830b628ba8c1616497d5f20b",
+  "confidence": null
+}

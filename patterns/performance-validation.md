@@ -31,3 +31,4 @@ tags: [complexity, benchmark, operation-counter, doubling-test, explain, query-p
 - [Princeton: Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
 - [SQLite Query Planner](https://www.sqlite.org/queryplanner.html)
 - [PostgreSQL: Using EXPLAIN](https://www.postgresql.org/docs/current/using-explain.html)
+- [Open Data Structures: Introduction and cost model](../external/open-data-structures/CHAPTERS.md)

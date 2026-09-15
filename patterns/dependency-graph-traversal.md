@@ -31,3 +31,4 @@ tags: [graph, dependency, bfs, dfs, topological-sort, shortest-path]
 - [cp-algorithms: Depth First Search](../external/cp-algorithms/graph/depth-first-search.md)
 - [cp-algorithms: Topological Sorting](../external/cp-algorithms/graph/topological-sort.md)
 - [cp-algorithms: Dijkstra](../external/cp-algorithms/graph/dijkstra.md)
+- [Open Data Structures: Graphs](../external/open-data-structures/CHAPTERS.md)

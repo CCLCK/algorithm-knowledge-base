@@ -32,3 +32,4 @@ tags: [exact-match, membership, deduplication, hash-map, index, bloom-filter]
 - [JavaScript Algorithms: Hash Table](../external/javascript-algorithms/data-structures/hash-table/README.md)
 - [JavaScript Algorithms: Bloom Filter](../external/javascript-algorithms/data-structures/bloom-filter/README.md)
 - [MIT 6.006 Lecture 1](../external/mit-6.006-lecture-01/fulltext.md)
+- [Open Data Structures: Hash Tables](../external/open-data-structures/CHAPTERS.md)

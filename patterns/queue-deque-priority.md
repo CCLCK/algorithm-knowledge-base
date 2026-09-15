@@ -28,3 +28,4 @@ tags: [fifo, deque, priority-queue, heap, monotonic-queue]
 - [JavaScript Algorithms: Priority Queue](../external/javascript-algorithms/data-structures/priority-queue/README.md)
 - [JavaScript Algorithms: Heap](../external/javascript-algorithms/data-structures/heap/README.md)
 - [cp-algorithms: Stack and Queue Modification](../external/cp-algorithms/data_structures/stack_queue_modification.md)
+- [Open Data Structures: Array-Based Lists and Heaps](../external/open-data-structures/CHAPTERS.md)
